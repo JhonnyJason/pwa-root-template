@@ -1,12 +1,10 @@
-# root-template
+# pwa-root-template
 
-This content is used as staticBase for the root of many thingies.
+This content is used as staticBase for the root for the pwa thingy.
 
 It includes:
 
 - .vscode/settings.json to not care about various files - e.g. build output
-- .gitignore to ignroe node_modules
-- double unlicense files to ridicule the idea that "intellectual property" is of any value.*
+- .gitignore to ignore node_modules, .build_config and files for testing
+- double unlicense files to ridicule the idea that "intellectual property" is of any value.^^
 
-
-*For real it is just not. And probably is fueled by the idea that it is the only leverage on society to demand "appreciation" or anything ^^

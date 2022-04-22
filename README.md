@@ -6,5 +6,11 @@ It includes:
 
 - .vscode/settings.json to not care about various files - e.g. build output
 - .gitignore to ignore node_modules, .build_config and files for testing
-- double unlicense files to ridicule the idea that "intellectual property" is of any value.^^
+- LICENSE file
+
+
+---
+
+# License
+[Unlicense JhonnyJason style](https://hackmd.io/nCpLO3gxRlSmKVG3Zxy2hA?view)
 
